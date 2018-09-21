@@ -1,0 +1,11 @@
+C:\dev\git\DojoPuzzle\DojoPuzze\bin\Debug\netcoreapp2.1\DojoPuzze.deps.json
+C:\dev\git\DojoPuzzle\DojoPuzze\bin\Debug\netcoreapp2.1\DojoPuzze.runtimeconfig.json
+C:\dev\git\DojoPuzzle\DojoPuzze\bin\Debug\netcoreapp2.1\DojoPuzze.runtimeconfig.dev.json
+C:\dev\git\DojoPuzzle\DojoPuzze\bin\Debug\netcoreapp2.1\DojoPuzze.dll
+C:\dev\git\DojoPuzzle\DojoPuzze\bin\Debug\netcoreapp2.1\DojoPuzze.pdb
+C:\dev\git\DojoPuzzle\DojoPuzze\obj\Debug\netcoreapp2.1\DojoPuzze.csprojAssemblyReference.cache
+C:\dev\git\DojoPuzzle\DojoPuzze\obj\Debug\netcoreapp2.1\DojoPuzze.csproj.CoreCompileInputs.cache
+C:\dev\git\DojoPuzzle\DojoPuzze\obj\Debug\netcoreapp2.1\DojoPuzze.AssemblyInfoInputs.cache
+C:\dev\git\DojoPuzzle\DojoPuzze\obj\Debug\netcoreapp2.1\DojoPuzze.AssemblyInfo.cs
+C:\dev\git\DojoPuzzle\DojoPuzze\obj\Debug\netcoreapp2.1\DojoPuzze.dll
+C:\dev\git\DojoPuzzle\DojoPuzze\obj\Debug\netcoreapp2.1\DojoPuzze.pdb
